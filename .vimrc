@@ -25,6 +25,10 @@
 :vnoremap c y
 :nnoremap v p
 :vnoremap x d
+:nnoremap y u
+
+" use 'exit' to quit shell
+:nnoremap z :shell<cr>
 
 :nnoremap 1 :close<cr>
 :nnoremap 3 :vsplit<cr>
