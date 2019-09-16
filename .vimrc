@@ -7,6 +7,8 @@
 :nnoremap ; $
 :nnoremap [ gg
 :nnoremap ] G
+:nnoremap n <c-d>
+:nnoremap p <c-u>
 :vnoremap i k
 :vnoremap k j
 :vnoremap j h
@@ -16,6 +18,8 @@
 :vnoremap ; $
 :vnoremap [ gg
 :vnoremap ] G
+:vnoremap n <c-d>
+:vnoremap p <c-u>
 
 :nnoremap 5 x
 
