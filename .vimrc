@@ -55,3 +55,11 @@
 
 set fileencoding=gbk
 set fileencodings=gbk,utf-8,utf-16,big5
+
+" set tab width is 2
+set tabstop=2
+set expandtab
+
+" replace all tab to space
+:nnoremap ,t :%retab!<cr>
+
