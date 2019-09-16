@@ -44,3 +44,6 @@
 :nnoremap b :b
 
 
+
+set fileencoding=gbk
+set fileencodings=gbk,utf-8,utf-16,big5
